@@ -1,0 +1,37 @@
+[
+  {
+    "id": "u9kgwNWGi3uUUwh0b8V49",
+    "title": "Eloquent JavaScript, Third Edition",
+    "author": "Marijn Haverbeke"
+  },
+  {
+    "id": "ck89qe3HriUDHe09TBoJ8",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
+    "id": "e1Tpn_I3wBkLREY6wG0lb",
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  },
+  {
+    "id": "Op8ApLTY0-Vn2cR0vDIwG",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson"
+  },
+  {
+    "title": "Author 1",
+    "author": "Author 1",
+    "id": "fa1436ae-bd73-4536-a1e3-8c5cfeae6d60"
+  },
+  {
+    "title": "Title 100",
+    "author": "Author 1",
+    "id": "683438b3-07aa-4c62-9e9a-c9fb4a7a1174"
+  },
+  {
+    "title": "Author 1",
+    "author": "Author 1",
+    "id": "3e78662f-a603-45ec-97a9-04f5f2b8d800"
+  }
+]
